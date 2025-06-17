@@ -5,5 +5,5 @@ platform.
 
 ## Contents
 
-- `add_custom_910b/` – Example custom kernel that adds two tensors on an
-  Ascend 910B device using the Ascend-C API.
+- `add_custom_910b/` – Example custom kernel with host program that verifies the
+  computation on an Ascend 910B device using the Ascend-C API.
